@@ -1,5 +1,4 @@
 # Boolean Masalalari
-# Boolean Masalalari
 
 1. **Boolean1.** A butun soni berilgan. Jumlani rostlikka tekshiring: "A soni musbat".
 2. **Boolean2.** A butun soni berilgan. Jumlani rostlikka tekshiring: "A soni toq son".
