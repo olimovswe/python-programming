@@ -1,497 +1,236 @@
-Algoritmik Masalalar To'plami 
+# Chiziqli algoritmik masalala
 
-1. Salomlashish dasturi (Begin1)
 
-Shart: Foydalanuvchidan ismini kiriting va 'Salom, {ism}!' ko'rinishida ekranga chiqaring.
+Begin1. Salomlashish dasturi
+Shart: Foydalanuvchidan ismini kiriting va Salom, {ism}! ko'rinishida ekranga chiqaring.
 
 Kirish: Muslimbek
-
 Chiqish: Salom, Muslimbek!
 
-2. Kvadratning perimetri (Begin2)
-
-Shart: Kvadratning tomoni $a$ berilgan. Uning perimetri $P$ aniqlansin.
-
-Formulalar: $P = 4 \cdot a$
-
-Kirish: $a = 5$
-
-Chiqish: $P = 20$
-
-3. Kvadratning yuzasi (Begin3)
-
-Shart: Kvadratning tomoni $a$ berilgan. Uning yuzasi $S$ aniqlansin.
-
-Formulalar: $S = a^2$
-
-Kirish: $a = 4$
-
-Chiqish: $S = 16$
-
-4. To'g'ri to'rtburchakning yuzasi va perimetri (Begin4)
-
-Shart: To'g'ri to'rtburchakning tomonlari $a$ va $b$ berilgan. Uning yuzasi $S$ va perimetri $P$ aniqlansin.
+Begin2. Kvadratning perimetri
+Shart: Kvadratning tomoni a berilgan. Uning perimetri P aniqlansin.
 
 Formulalar:
+P = 4 · a
 
-$S = a \cdot b$
+Kirish: a = 5
+Chiqish: P = 20
 
-$P = 2 \cdot (a + b)$
-
-Kirish: $a = 3$, $b = 6$
-
-Chiqish: $S = 18$, $P = 18$
-
-5. Aylananing uzunligi (Begin5)
-
-Shart: Aylananing diametri $d$ berilgan. Uning uzunligi $L$ aniqlansin. ($\pi = 3.14$)
-
-Formulalar: $L = \pi \cdot d$
-
-Kirish: $d = 10$
-
-Chiqish: $L = 31.4$
-
-6. Kubning hajmi va to'la sirti (Begin6)
-
-Shart: Kubning yon tomoni $a$ berilgan. Uning hajmi $V$ va to'la sirti $S$ aniqlansin.
+Begin3. Kvadratning yuzasi
+Shart: Kvadratning tomoni a berilgan. Uning yuzasi S aniqlansin.
 
 Formulalar:
+S = a²
 
-$V = a^3$
+Kirish: a = 4
+Chiqish: S = 16
 
-$S = 6 \cdot a^2$
-
-Kirish: $a = 3$
-
-Chiqish: $V = 27$, $S = 54$
-
-7. Parallelepipedning hajmi va to'la sirti (Begin7)
-
-Shart: Parallelepipedning tomonlari $a$, $b$, $c$ berilgan. Uning hajmi $V$ va to'la sirti $S$ aniqlansin.
+Begin4. To'g'ri to'rtburchakning yuzasi va perimetri
+Shart: To'g'ri to'rtburchakning tomonlari a va b berilgan. Uning yuzasi S va perimetri P aniqlansin.
 
 Formulalar:
+S = a · b
+P = 2 · (a + b)
 
-$V = a \cdot b \cdot c$
+Kirish: a = 3, b = 6
+Chiqish: S = 18, P = 18
 
-$S = 2 \cdot (a \cdot b + b \cdot c + a \cdot c)$
-
-Kirish: $a = 2$, $b = 3$, $c = 4$
-
-Chiqish: $V = 24$, $S = 52$
-
-8. Doiraning uzunligi va yuzasi (Begin8)
-
-Shart: Doiraning radiusi $R$ berilgan. Uning uzunligi $L$ va yuzasi $S$ aniqlansin.
+Begin5. Aylananing uzunligi
+Shart: Aylananing diametri d berilgan. Uning uzunligi L aniqlansin. (π = 3.14)
 
 Formulalar:
+L = π · d
 
-$L = 2 \cdot \pi \cdot R$
+Kirish: d = 10
+Chiqish: L = 31.4
 
-$S = \pi \cdot R^2$
+Begin6. Kubning hajmi va to'la sirti
+Shart: Kubning yon tomoni a berilgan. Uning hajmi V va to'la sirti S aniqlansin.
 
-Kirish: $R = 5$
+Formulalar:
+V = a³
+S = 6 · a²
 
-Chiqish: $L = 31.4$, $S = 78.5$
+Kirish: a = 3
+Chiqish: V = 27, S = 54
 
-9. O'rta arifmetik (Begin9)
+Begin7. Parallelepipedning hajmi va to'la sirti
+Shart: Parallelepipedning tomonlari a, b, c berilgan. Uning hajmi V va to'la sirti S aniqlansin.
 
-Shart: Ikkita son $a$ va $b$ berilgan. Ularning o'rta arifmetigi aniqlansin.
+Formulalar:
+V = a · b · c
+S = 2 · (a·b + b·c + a·c)
 
-Formulalar: $\text{O'rta arifmetik} = \frac{a + b}{2}$
+Kirish: a = 2, b = 3, c = 4
+Chiqish: V = 24, S = 52
 
-Kirish: $a = 4$, $b = 6$
+Begin8. Doiraning uzunligi va yuzasi
+Shart: Doiraning radiusi R berilgan. Uning uzunligi L va yuzasi S aniqlansin.
 
-Chiqish: $5$
+Formulalar:
+L = 2 · π · R
+S = π · R²
 
-10. O'rta geometrik (Begin10)
+Kirish: R = 5
+Chiqish: L = 31.4, S = 78.5
 
-Shart: Ikkita manfiy bo'lmagan son $a$ va $b$ berilgan. Ularning o'rta geometrigi aniqlansin.
+Begin9. O'rta arifmetik
+Shart: Ikkita son a va b berilgan. Ularning o'rta arifmetigi aniqlansin.
 
-Formulalar: $\text{O'rta geometrik} = \sqrt{a \cdot b}$
+Formulalar:
+O'rta arifmetik = (a + b) / 2
 
-Kirish: $a = 4$, $b = 9$
+Kirish: a = 4, b = 6
+Chiqish: 5
 
-Chiqish: $6$
+Begin10. O'rta geometrik
+Shart: Ikkita manfiy bo'lmagan son a va b berilgan. Ularning o'rta geometrigi aniqlansin.
 
-11. Nolga teng bo'lmagan ikki sonning amallari (Begin11)
+Formulalar:
+O'rta geometrik = √(a · b)
 
+Kirish: a = 4, b = 9
+Chiqish: 6
+
+Begin11. Nolga teng bo'lmagan ikki sonning amallari
 Shart: Nolga teng bo'lmagan ikkita son berilgan. Ularning yig'indisi, ko'paytmasi va har birining kvadratlari aniqlansin.
 
 Formulalar:
+Yig'indi = a + b
+Ko'paytma = a · b
+a², b²
 
-$\text{Yig'indi} = a + b$
+Kirish: a = 3, b = 4
+Chiqish: Yig'indi: 7, Ko'paytma: 12, Kvadratlari: 9 va 16
 
-$\text{Ko'paytma} = a \cdot b$
-
-$a^2$, $b^2$
-
-Kirish: $a = 3$, $b = 4$
-
-Chiqish: Yig'indi: $7$, Ko'paytma: $12$, Kvadratlari: $9$ va $16$
-
-12. Nolga teng bo'lmagan ikki sonning modullari (Begin12)
-
-Shart: Nolga teng bo'lmagan ikkita son berilgan. Ularning yig'indisi, ko'paytmasi va har birining moduli ($\vert{}a\vert{}$, $\vert{}b\vert{}$) aniqlansin.
+Begin12. Nolga teng bo'lmagan ikki sonning modullari
+Shart: Nolga teng bo'lmagan ikkita son berilgan. Ularning yig'indisi, ko'paytmasi va har birining moduli (|a|, |b|) aniqlansin.
 
 Formulalar:
+Yig'indi = a + b
+Ko'paytma = a · b
+|a|, |b|
 
-$\text{Yig'indi} = a + b$
+Kirish: a = -5, b = 3
+Chiqish: Yig'indi: -2, Ko'paytma: -15, Modullari: 5 va 3
 
-$\text{Ko'paytma} = a \cdot b$
-
-$\vert{}a\vert{}$, $\vert{}b\vert{}$
-
-Kirish: $a = -5$, $b = 3$
-
-Chiqish: Yig'indi: $-2$, Ko'paytma: $-15$, Modullari: $5$ va $3$
-
-13. To'g'ri uchburchakning gipotenuzasi va perimetri (Begin13)
-
-Shart: To'g'ri uchburchakning katetlari $a$ va $b$ berilgan. Uning gipotenuzasi $c$ va perimetri $P$ aniqlansin.
+Begin13. To'g'ri uchburchakning gipotenuzasi va perimetri
+Shart: To'g'ri uchburchakning katetlari a va b berilgan. Uning gipotenuzasi c va perimetri P aniqlansin.
 
 Formulalar:
+c = √(a² + b²)
+P = a + b + c
 
-$c = \sqrt{a^2 + b^2}$
+Kirish: a = 3, b = 4
+Chiqish: c = 5, P = 12
 
-$P = a + b + c$
-
-Kirish: $a = 3$, $b = 4$
-
-Chiqish: $c = 5$, $P = 12$
-
-14. Markazshakl aylanalar yuzasi (Begin14)
-
-Shart: Umumiy markazga ega bo'lgan ikkita aylana radiusi $R_1$ va $R_2$ berilgan ($R_1 > R_2$). Ularning yuzalari $S_1$ va $S_2$, hamda ularning ayirmasi $S_3$ aniqlansin.
+Begin14. Markazshakl aylanalar yuzasi
+Shart: Umumiy markazga ega bo'lgan ikkita aylana radiusi R₁ va R₂ berilgan (R₁ > R₂). Ularning yuzalari S₁ va S₂, hamda ularning ayirmasi S₃ aniqlansin.
 
 Formulalar:
+S₁ = π · R₁²
+S₂ = π · R₂²
+S₃ = π · (R₁² − R₂²)
 
-$S_1 = \pi \cdot R_1^2$
+Kirish: R₁ = 5, R₂ = 3
+Chiqish: S₁ = 78.5, S₂ = 28.26, S₃ = 50.24
 
-$S_2 = \pi \cdot R_2^2$
-
-$S_3 = \pi \cdot (R_1^2 - R_2^2)$
-
-Kirish: $R_1 = 5$, $R_2 = 3$
-
-Chiqish: $S_1 = 78.5$, $S_2 = 28.26$, $S_3 = 50.24$
-
-15. Aylananing radiusi va yuzasi (Begin15)
-
-Shart: Aylananing uzunligi $L$ berilgan. Uning radiusi $R$ va yuzasi $S$ aniqlansin. ($\pi = 3.14$)
+Begin15. Aylananing radiusi va yuzasi
+Shart: Aylananing uzunligi L berilgan. Uning radiusi R va yuzasi S aniqlansin. (π = 3.14)
 
 Formulalar:
+R = L / (2 · π)
+S = π · R²
 
-$R = \frac{L}{2 \cdot \pi}$
+Kirish: L = 31.4
+Chiqish: R = 5, S = 78.5
 
-$S = \pi \cdot R^2$
-
-Kirish: $L = 31.4$
-
-Chiqish: $R = 5$, $S = 78.5$
-
-16. Doiraning diametri va radiusi (Begin16)
-
-Shart: Doiraning yuzasi $S$ berilgan. Uning diametri $d$ va radiusi $R$ aniqlansin. ($\pi = 3.14$)
+Begin16. Doiraning diametri va radiusi
+Shart: Doiraning yuzasi S berilgan. Uning diametri d va radiusi R aniqlansin. (π = 3.14)
 
 Formulalar:
+R = √(S / π)
+d = 2 · R
 
-$R = \sqrt{\frac{S}{\pi}}$
+Kirish: S = 78.5
+Chiqish: R = 5, d = 10
 
-$d = 2 \cdot R$
-
-Kirish: $S = 78.5$
-
-Chiqish: $R = 5$, $d = 10$
-
-17. Sonlar o'qidagi masofa (Begin17)
-
-Shart: Sonlar o'qida ikkita nuqta $x_1$ va $x_2$ berilgan. Ularning orasidagi masofa aniqlansin.
-
-Formulalar: $\text{Masofa} = \vert{}x_2 - x_1\vert{}$
-
-Kirish: $x_1 = 2$, $x_2 = 8$
-
-Chiqish: $6$
-
-18. Sonlar o'qidagi 3 ta nuqta va kesmalar yig'indisi (Begin18)
-
-Shart: Sonlar o'qida $A$, $B$, $C$ nuqtalar berilgan. $AC$ va $BC$ kesmalarning uzunligini va ushbu kesmalar uzunligining yig'indisini topuvchi programma tuzilsin.
+Begin17. Sonlar o'qidagi masofa
+Shart: Sonlar o'qida ikkita nuqta x₁ va x₂ berilgan. Ularning orasidagi masofa aniqlansin.
 
 Formulalar:
+Masofa = |x₂ − x₁|
 
-$AC = \vert{}C - A\vert{}$
+Kirish: x₁ = 2, x₂ = 8
+Chiqish: 6
 
-$BC = \vert{}C - B\vert{}$
-
-$\text{Yig'indi} = AC + BC$
-
-Kirish: $A = 2$, $B = 5$, $C = 10$
-
-Chiqish: $AC = 8$, $BC = 5$, Yig'indi: $13$
-
-19. Kesmalar ko'paytmasi (Begin19)
-
-Shart: Sonlar o'qida $A$, $B$, $C$ nuqtalar berilgan. $C$ nuqta $A$ va $B$ nuqtalar orasida joylashgan. $AC$ va $BC$ kesmalar uzunligining ko'paytmasini toping.
+Begin18. Sonlar o'qidagi 3 ta nuqta va kesmalar yig'indisi
+Shart: Sonlar o'qida A, B, C nuqtalar berilgan. AC va BC kesmalarning uzunligini va ushbu kesmalar uzunligining yig'indisini topuvchi programma tuzilsin.
 
 Formulalar:
+AC = |C − A|
+BC = |C − B|
+Yig'indi = AC + BC
 
-$AC = \vert{}C - A\vert{}$
+Kirish: A = 2, B = 5, C = 10
+Chiqish: AC = 8, BC = 5, Yig'indi: 13
 
-$BC = \vert{}B - C\vert{}$
-
-$\text{Ko'paytma} = AC \cdot BC$
-
-Kirish: $A = 2$, $B = 8$, $C = 5$
-
-Chiqish: $AC = 3$, $BC = 3$, Ko'paytma: $9$
-
-Algoritmik Masalalar To'plami 
-
-1. Salomlashish dasturi (Begin1)
-
-Shart: Foydalanuvchidan ismini kiriting va 'Salom, {ism}!' ko'rinishida ekranga chiqaring.
-
-Kirish: Muslimbek
-
-Chiqish: Salom, Muslimbek!
-
-2. Kvadratning perimetri (Begin2)
-
-Shart: Kvadratning tomoni $a$ berilgan. Uning perimetri $P$ aniqlansin.
-
-Formulalar: $P = 4 \cdot a$
-
-Kirish: $a = 5$
-
-Chiqish: $P = 20$
-
-3. Kvadratning yuzasi (Begin3)
-
-Shart: Kvadratning tomoni $a$ berilgan. Uning yuzasi $S$ aniqlansin.
-
-Formulalar: $S = a^2$
-
-Kirish: $a = 4$
-
-Chiqish: $S = 16$
-
-4. To'g'ri to'rtburchakning yuzasi va perimetri (Begin4)
-
-Shart: To'g'ri to'rtburchakning tomonlari $a$ va $b$ berilgan. Uning yuzasi $S$ va perimetri $P$ aniqlansin.
+Begin19. Kesmalar ko'paytmasi
+Shart: Sonlar o'qida A, B, C nuqtalar berilgan. C nuqta A va B nuqtalar orasida joylashgan. AC va BC kesmalar uzunligining ko'paytmasini toping.
 
 Formulalar:
+AC = |C − A|
+BC = |B − C|
+Ko'paytma = AC · BC
 
-$S = a \cdot b$
+Kirish: A = 2, B = 8, C = 5
+Chiqish: AC = 3, BC = 3, Ko'paytma: 9
 
-$P = 2 \cdot (a + b)$
+Begin20. O'zgaruvchilar qiymatini almashtirish
+Shart: Berilgan A va B sonlarining qiymatlarini almashtiring. A va B ning yangi qiymatlari ekranga chiqarilsin.
 
-Kirish: $a = 3$, $b = 6$
+Mantiq / Formula:
+Qo'shimcha o'zgaruvchi C orqali:
+C = A → A = B → B = C
+Yoki matematik usulda:
+A = A + B → B = A − B → A = A − B
 
-Chiqish: $S = 18$, $P = 18$
+Kirish: A = 5, B = 10
+Chiqish: A = 10, B = 5
 
-5. Aylananing uzunligi (Begin5)
+Begin21. Uch sonni aylanma almashtirish
+Shart: A, B va C sonlari berilgan. A ning qiymati B ga, B ning qiymati C ga va C ning qiymati A ga almashtirilsin. A, B va C ning yangi qiymatlari ekranga chiqarilsin.
 
-Shart: Aylananing diametri $d$ berilgan. Uning uzunligi $L$ aniqlansin. ($\pi = 3.14$)
+Mantiq:
+vaqt = A → A = C → C = B → B = vaqt
+(yoki masala shartiga mos boshqa aylanma almashtirish)
 
-Formulalar: $L = \pi \cdot d$
+Kirish: A = 1, B = 2, C = 3
+Chiqish: A = 2, B = 3, C = 1
 
-Kirish: $d = 10$
+Begin22. Uch sonni boshqa tartibda almashtirish
+Shart: A, B va C sonlari berilgan. A ning qiymati C ga, C ning qiymati B ga va B ning qiymati A ga almashtirilsin. A, B va C ning yangi qiymatlari ekranga chiqarilsin.
 
-Chiqish: $L = 31.4$
+Mantiq:
+vaqt = A → A = B → B = C → C = vaqt
 
-6. Kubning hajmi va to'la sirti (Begin6)
+Kirish: A = 1, B = 2, C = 3
+Chiqish: A = 3, B = 1, C = 2
 
-Shart: Kubning yon tomoni $a$ berilgan. Uning hajmi $V$ va to'la sirti $S$ aniqlansin.
-
-Formulalar:
-
-$V = a^3$
-
-$S = 6 \cdot a^2$
-
-Kirish: $a = 3$
-
-Chiqish: $V = 27$, $S = 54$
-
-7. Parallelepipedning hajmi va to'la sirti (Begin7)
-
-Shart: Parallelepipedning tomonlari $a$, $b$, $c$ berilgan. Uning hajmi $V$ va to'la sirti $S$ aniqlansin.
-
-Formulalar:
-
-$V = a \cdot b \cdot c$
-
-$S = 2 \cdot (a \cdot b + b \cdot c + a \cdot c)$
-
-Kirish: $a = 2$, $b = 3$, $c = 4$
-
-Chiqish: $V = 24$, $S = 52$
-
-8. Doiraning uzunligi va yuzasi (Begin8)
-
-Shart: Doiraning radiusi $R$ berilgan. Uning uzunligi $L$ va yuzasi $S$ aniqlansin.
+Begin23. Funksiya qiymati (1)
+Shart: x ning qiymati berilganda y = 3x⁶ − 6x² − 7 funksiyaning qiymati aniqlansin.
 
 Formulalar:
+y = 3·x⁶ − 6·x² − 7
 
-$L = 2 \cdot \pi \cdot R$
+Kirish: x = 2
+Chiqish: y = 3·64 − 6·4 − 7 = 192 − 24 − 7 = 161
 
-$S = \pi \cdot R^2$
-
-Kirish: $R = 5$
-
-Chiqish: $L = 31.4$, $S = 78.5$
-
-9. O'rta arifmetik (Begin9)
-
-Shart: Ikkita son $a$ va $b$ berilgan. Ularning o'rta arifmetigi aniqlansin.
-
-Formulalar: $\text{O'rta arifmetik} = \frac{a + b}{2}$
-
-Kirish: $a = 4$, $b = 6$
-
-Chiqish: $5$
-
-10. O'rta geometrik (Begin10)
-
-Shart: Ikkita manfiy bo'lmagan son $a$ va $b$ berilgan. Ularning o'rta geometrigi aniqlansin.
-
-Formulalar: $\text{O'rta geometrik} = \sqrt{a \cdot b}$
-
-Kirish: $a = 4$, $b = 9$
-
-Chiqish: $6$
-
-11. Nolga teng bo'lmagan ikki sonning amallari (Begin11)
-
-Shart: Nolga teng bo'lmagan ikkita son berilgan. Ularning yig'indisi, ko'paytmasi va har birining kvadratlari aniqlansin.
+Begin24. Funksiya qiymati (2)
+Shart: x ning qiymati berilganda y = 4(x − 3)⁶ − 7(x − 3)³ + 2 funksiyaning qiymati aniqlansin.
 
 Formulalar:
+y = 4·(x − 3)⁶ − 7·(x − 3)³ + 2
 
-$\text{Yig'indi} = a + b$
-
-$\text{Ko'paytma} = a \cdot b$
-
-$a^2$, $b^2$
-
-Kirish: $a = 3$, $b = 4$
-
-Chiqish: Yig'indi: $7$, Ko'paytma: $12$, Kvadratlari: $9$ va $16$
-
-12. Nolga teng bo'lmagan ikki sonning modullari (Begin12)
-
-Shart: Nolga teng bo'lmagan ikkita son berilgan. Ularning yig'indisi, ko'paytmasi va har birining moduli ($\vert{}a\vert{}$, $\vert{}b\vert{}$) aniqlansin.
-
-Formulalar:
-
-$\text{Yig'indi} = a + b$
-
-$\text{Ko'paytma} = a \cdot b$
-
-$\vert{}a\vert{}$, $\vert{}b\vert{}$
-
-Kirish: $a = -5$, $b = 3$
-
-Chiqish: Yig'indi: $-2$, Ko'paytma: $-15$, Modullari: $5$ va $3$
-
-13. To'g'ri uchburchakning gipotenuzasi va perimetri (Begin13)
-
-Shart: To'g'ri uchburchakning katetlari $a$ va $b$ berilgan. Uning gipotenuzasi $c$ va perimetri $P$ aniqlansin.
-
-Formulalar:
-
-$c = \sqrt{a^2 + b^2}$
-
-$P = a + b + c$
-
-Kirish: $a = 3$, $b = 4$
-
-Chiqish: $c = 5$, $P = 12$
-
-14. Markazshakl aylanalar yuzasi (Begin14)
-
-Shart: Umumiy markazga ega bo'lgan ikkita aylana radiusi $R_1$ va $R_2$ berilgan ($R_1 > R_2$). Ularning yuzalari $S_1$ va $S_2$, hamda ularning ayirmasi $S_3$ aniqlansin.
-
-Formulalar:
-
-$S_1 = \pi \cdot R_1^2$
-
-$S_2 = \pi \cdot R_2^2$
-
-$S_3 = \pi \cdot (R_1^2 - R_2^2)$
-
-Kirish: $R_1 = 5$, $R_2 = 3$
-
-Chiqish: $S_1 = 78.5$, $S_2 = 28.26$, $S_3 = 50.24$
-
-15. Aylananing radiusi va yuzasi (Begin15)
-
-Shart: Aylananing uzunligi $L$ berilgan. Uning radiusi $R$ va yuzasi $S$ aniqlansin. ($\pi = 3.14$)
-
-Formulalar:
-
-$R = \frac{L}{2 \cdot \pi}$
-
-$S = \pi \cdot R^2$
-
-Kirish: $L = 31.4$
-
-Chiqish: $R = 5$, $S = 78.5$
-
-16. Doiraning diametri va radiusi (Begin16)
-
-Shart: Doiraning yuzasi $S$ berilgan. Uning diametri $d$ va radiusi $R$ aniqlansin. ($\pi = 3.14$)
-
-Formulalar:
-
-$R = \sqrt{\frac{S}{\pi}}$
-
-$d = 2 \cdot R$
-
-Kirish: $S = 78.5$
-
-Chiqish: $R = 5$, $d = 10$
-
-17. Sonlar o'qidagi masofa (Begin17)
-
-Shart: Sonlar o'qida ikkita nuqta $x_1$ va $x_2$ berilgan. Ularning orasidagi masofa aniqlansin.
-
-Formulalar: $\text{Masofa} = \vert{}x_2 - x_1\vert{}$
-
-Kirish: $x_1 = 2$, $x_2 = 8$
-
-Chiqish: $6$
-
-18. Sonlar o'qidagi 3 ta nuqta va kesmalar yig'indisi (Begin18)
-
-Shart: Sonlar o'qida $A$, $B$, $C$ nuqtalar berilgan. $AC$ va $BC$ kesmalarning uzunligini va ushbu kesmalar uzunligining yig'indisini topuvchi programma tuzilsin.
-
-Formulalar:
-
-$AC = \vert{}C - A\vert{}$
-
-$BC = \vert{}C - B\vert{}$
-
-$\text{Yig'indi} = AC + BC$
-
-Kirish: $A = 2$, $B = 5$, $C = 10$
-
-Chiqish: $AC = 8$, $BC = 5$, Yig'indi: $13$
-
-19. Kesmalar ko'paytmasi (Begin19)
-
-Shart: Sonlar o'qida $A$, $B$, $C$ nuqtalar berilgan. $C$ nuqta $A$ va $B$ nuqtalar orasida joylashgan. $AC$ va $BC$ kesmalar uzunligining ko'paytmasini toping.
-
-Formulalar:
-
-$AC = \vert{}C - A\vert{}$
-
-$BC = \vert{}B - C\vert{}$
-
-$\text{Ko'paytma} = AC \cdot BC$
-
-Kirish: $A = 2$, $B = 8$, $C = 5$
-
-Chiqish: $AC = 3$, $BC = 3$, Ko'paytma: $9$
-
-20. O'zgaruvchilar qiymatini almashtirish (Begin20)Shart: Berilgan $A$ va $B$ sonlarining qiymatlarini almashtiring. $A$ va $B$ ning yangi qiymatlari ekranga chiqarilsin.Mantiq / Formula:Qo'shimcha o'zgaruvchi $C$ orqali: $C = A \to A = B \to B = C$Yoki matematik usulda: $A = A + B \to B = A - B \to A = A - B$Kirish: $A = 5$, $B = 10$Chiqish: $A = 10$, $B = 5$
+Kirish: x = 4
+Chiqish: y = 4·1⁶ − 7·1³ + 2 = 4 − 7 + 2 = −1
