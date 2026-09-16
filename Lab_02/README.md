@@ -16,3 +16,15 @@
 14. **Boolean14.** Uchta A, B, C butun sonlar berilgan. Jumlani rostlikka tekshiring: "A, B, C sonlaridan faqat bittasi musbat son".
 15. **Boolean15.** Uchta A, B, C butun sonlar berilgan. Jumlani rostlikka tekshiring: "A, B, C sonlardan faqat ikkitasi musbat son".
 16. **Boolean16.** Musbat butun son berilgan. Jumlani rostlikka tekshiring: "Berilgan son ikki xonali juft son".
+<<<<<<< HEAD
+=======
+17. **Boolean17.** Musbat butun son berilgan. Jumlani rostlikka tekshiring: "Berilgan son uch xonali toq".
+18. **Boolean18.** Jumlani rostlikka tekshiring: "Berilgan uchta butun sonlarning hech bo'lmaganda 2 tasi bir biriga teng".
+19. **Boolean19.** Jumlani rostlikka tekshiring: "Berilgan uchta butun sonlarning hech bo'lmaganda bir jufti o'zaro qarama-qarshi".
+20. **Boolean20.** Uch xonali son berilgan. Jumlani rostlikka tekshiring: "Ushbu sonning barcha raqamlari xar xil".
+21. **Boolean21.** Uch xonali son berilgan. Jumlani rostlikka tekshiring: "Ushbu sonning raqamlari ketma-ket o'suvchi bo'lib joylashgan".
+22. **Boolean22.** Uch xonali son berilgan. Jumlani rostlikka tekshiring: "Ushbu sonning raqamlari ketma-ket o'suvchi bo'lib joylashgan yoki kamayuvchi ketma-ketlikka ega".
+23. **Boolean23.** Uch xonali son berilgan. Jumlani rostlikka tekshiring: "Ushbu sonni chapdan o'qiganda ham, o'ngdan o'qiganda ham bir xil".
+24. **Boolean24.** A, B, C sonlar berilgan (A soni noldan farqli). \(D=B^2-4AC\) diskriminantdan foydalanib, jumlani rostlikka tekshiring: "Ax^2+Bx+C=0 kvadrat tenglama haqiqiy ildizga ega".
+25. **Boolean25.** x, y sonlar berilgan. Jumlani rostlikka tekshiring: "Koordinatalari (x,y) bo'lgan nuqta, koordinata choragining ikkinchisida yotadi".
+>>>>>>> fbdf8d2 (Boolean)
