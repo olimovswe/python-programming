@@ -36,3 +36,24 @@
 <br>
 
 10. **if10.** A va B butun sonlari berilgan. Agar o'zgaruvchilar o'zaro teng bo'lmasa, A va B o'zgaruvchilari ularning yig'indisini o'zlashtirsin. Agar teng bo'lsa, 0 ni o'zlashtirsin. A va B ning qiymati ekranga chiqarilsin.
+
+<br>
+
+11. **if11.** Foydalanuvchi ma'lumotlariga asoslanib, haroratni Selsiy va Farengeyt darajalari o'rtasida o'zgartiradigan Pyhton dasturi. Shuningdek, Kelvin uchun konversiyalarni ham qo'shishingiz mumkin.
+
+<br>
+
+12. **if12.** Sonning juft yoki toq ekanligini tekshirish uchun python dasturi.
+
+<br>
+
+13. **if13.** Belgining unli yoki undosh ekanligini tekshirish uchun python dasturi.
+
+<br>
+
+14. **if14.** Kiritilgan yil kabisa yili yoki yo'qligini aniqlash uchun python dasturi.
+
+<br>
+
+
+
