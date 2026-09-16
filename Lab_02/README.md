@@ -26,5 +26,5 @@
 22. **Boolean22.** Uch xonali son berilgan. Jumlani rostlikka tekshiring: "Ushbu sonning raqamlari ketma-ket o'suvchi bo'lib joylashgan yoki kamayuvchi ketma-ketlikka ega".
 23. **Boolean23.** Uch xonali son berilgan. Jumlani rostlikka tekshiring: "Ushbu sonni chapdan o'qiganda ham, o'ngdan o'qiganda ham bir xil".
 24. **Boolean24.** A, B, C sonlar berilgan (A soni noldan farqli). \(D=B^2-4AC\) diskriminantdan foydalanib, jumlani rostlikka tekshiring: "Ax^2+Bx+C=0 kvadrat tenglama haqiqiy ildizga ega".
-25. **Boolean25.** x, y sonlar berilgan. Jumlani rostlikka tekshiring: "Koordinatalari (x,y) bo'lgan nuqta, koordinata choragining ikkinchisida yotadi".
+25. **Boolean25.** x, y sonlar berilgan. Jumlani rostlikka tekshiring: "Koordinatalari (x,y) bo'lgan nuqta, koordinata choragining nechinchi chorakda yotadi".
 
