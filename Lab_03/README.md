@@ -72,16 +72,11 @@
 
 <br>
 
-17. **if17.** Foydalanuvchi kiritishi sifatida ageva ni oling . faqat yoki bo'lishi mumkin . Shunday qilib, agar yosh 18 dan katta yoki unga teng bo'lsa va foydalanuvchi bizning do'konimiz a'zosi bo'lsa, biz 10% chegirma taqdim etamiz, aks holda biz to'liq narxni olamiz.membership_statusmembership_statusYy
-Ichki shartlardan foydalangan holda oddiy chatbot dasturini yozing.
+17. **if17.** Foydalanuvchi kiritishi sifatida `age` va `membership_status` ni oling (A'zolik faqat `Y` yoki `y` bo'lishi mumkin). Agar yosh 18 dan katta yoki unga teng bo'lsa va foydalanuvchi do'kon a'zosi bo'lsa, 10% chegirma taqdim etiladi, aks holda to'liq narx olinadi. Ichki shartlardan foydalangan holda oddiy chatbot dasturini yozing. 
 
-  **Maslahat: Soliqni topish formulasi (ish haqi * foiz) / 100**
-    
-    Siz quyidagilarni chiqarishingiz kerak:
-    -Soliq foizi
-    -Soliqlardan keyingi ish haqi
 
 <br>
+
 
 18.. **if18.** Foydalanuvchining oylik daromadiga qarab soliq foizini aniqlaydigan dastur. Daromad 1500 gacha bo'lsa 0%, 3000 gacha 10%, 5000 gacha 20%, undan yuqori bo'lsa 30% soliq hisoblanadi.
 
@@ -97,6 +92,36 @@ Ichki shartlardan foydalangan holda oddiy chatbot dasturini yozing.
 <br>
 
 <br>
+
+21. **if21.** Sonning ishorasini aniqlash. Kiritilgan butun sonning musbat, manfiy yoki nolga teng ekanligini aniqlovchi sodda tarmoqlanuvchi dastur.
+
+<br>
+
+22. **if22.**Eng yuqori ballni aniqlash. Uchta talabaning to'plagan ballari kiritilganda, ular orasidan eng yuqori (maksimal) ballni aniqlab ekranga chiqaruvchi dastur.
+
+
+<br>
+
+23. **if23.** Tizimga kirish yoshi tekshiruvi. Foydalanuvchi yoshini so'rab, agar u 18 yoshdan katta yoki teng bo'lsa tizimga ruxsat beruvchi, aks holda ogohlantirish xabarini chiqaruvchi dastur.
+
+<br>
+
+25. **if25.** Elektr energiya hisoblagichi. Iste'mol qilingan elektr energiyasi miqdori (kWt) kiritilganda, belgilangan tarif pog'onalariga ko'ray (100, 200, 300 so'm) jami to'lov summasini hisoblovchi dastur.
+
+
+
+<br>
+
+26. **if26.Hafta kunlari taqvimi. Kiritilgan hafta kunining nomiga qarab (dushanba-juma) ish kuni yoki (shanba-yakshanba) dam olish kuni ekanligini aniqlaydigan va imlo xatolarini tekshiradigan dastur.
+
+<br>
+
+27. **if27.** Mantiqiy operatorlar orqali maksimumini topish. Tayyor funksiyalar va tsikllardan foydalanmagan holda, mantiqiy "va" (and / &&) operatori yordamida uchta sonni o'zaro solishtirib eng kattasini aniqlovchi dastur.
+<br>
+
+
+
+
 
 
 
