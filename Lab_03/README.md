@@ -56,4 +56,48 @@
 <br>
 
 
+15. **if15.** Python dasturi foydalanuvchiga ikkita son ustida asosiy arifmetik amallarni (qo'shish, ayirish, ko'paytirish, bo'lish) bajarish imkonini beradi.
+  Shuningdek, nolga bo'lish uchun xatolarni qayta ishlashni ham qo'shishingiz mumkin.
+
+<br>
+
+
+16. **if16.** BMI kalkulyatori: Odamning tana massasi indeksini (BMI) uning vazni va bo'yi asosida hisoblaydigan dastur yarating. Odamning vazni kam, normal vazn, ortiqcha vazn yoki semizligini tasniflang. cin, cout dan foydalaning. Formula: bmi = vazn / (bo'y * bo'y)
+
+ | bmi < 18.5 | Underweight |
+    | --- | --- |
+    | bmi < 24.9 | Normal Weight |
+    | bmi < 29.9 | Overweight |
+    | Otherwise | Obese |
+
+<br>
+
+17. **if17.** Foydalanuvchi kiritishi sifatida ageva ni oling . faqat yoki bo'lishi mumkin . Shunday qilib, agar yosh 18 dan katta yoki unga teng bo'lsa va foydalanuvchi bizning do'konimiz a'zosi bo'lsa, biz 10% chegirma taqdim etamiz, aks holda biz to'liq narxni olamiz.membership_statusmembership_statusYy
+Ichki shartlardan foydalangan holda oddiy chatbot dasturini yozing.
+
+  **Maslahat: Soliqni topish formulasi (ish haqi * foiz) / 100**
+    
+    Siz quyidagilarni chiqarishingiz kerak:
+    -Soliq foizi
+    -Soliqlardan keyingi ish haqi
+
+<br>
+
+18.. **if18.** Foydalanuvchining oylik daromadiga qarab soliq foizini aniqlaydigan dastur. Daromad 1500 gacha bo'lsa 0%, 3000 gacha 10%, 5000 gacha 20%, undan yuqori bo'lsa 30% soliq hisoblanadi.
+
+<br>
+
+
+19. **if19.** X. Urinishlar soni cheklangan xavfsizlik tizimi. Foydalanuvchiga login/parol kiritish uchun 3 ta imkoniyat beradigan, imkoniyatlar tugagach tizimni avtomatik bloklaydigan tsiklik (while-else) dastur.
+
+<br>
+
+
+20. **if20.** O'yin yuklash talablari tekshiruvi. Foydalanuvchining yoshi (yosh >= 16) va kompyuter texnik ko'rsatkichlarini (RAM >= 8) tekshirib, o'yinni yuklashga ruxsat beruvchi dastur.
+<br>
+
+<br>
+
+
+
 
